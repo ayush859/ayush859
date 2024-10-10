@@ -4,7 +4,7 @@
 
 
 <img align ="right" alt ="coding" width ="400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3M2dWE1OHVib3Z0ZjY2bm45djJwbG9zMW5jdmlxM3VlYmp3Nml2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.webp">
-<h3 align="center">A passionate web developer and problem solver from India,</h3>
+<h3 align="center">A passionate Programmer,Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush859&label=Profile%20views&color=0e75b6&style=flat" alt="ayush859" /> </p>
 
