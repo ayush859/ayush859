@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Ayush Choubey</h1>
-<h3 align="center">A passionate Programmer,Full Stack Developer</h3>
+<h3 align="center">A passionate Programmer , Full Stack Developer</h3>
 
 <h3 align="center">📂 <a href="https://github.com/ayush859" target="_blank">GitHub Repositories</a></h3>
 <h3 align="center">✉️ <a href="mailto:ayushgtg@gmail.com">Email Me</a></h3>
