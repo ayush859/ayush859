@@ -26,11 +26,6 @@
 <br/>
 
 
-## 📖  What I am currently learning / improving on
-<p align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="go logo" title="Go" height="25" />
-<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL logo" title="SQL" height="25" />
-</p>
 
 <br/>
 
