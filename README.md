@@ -41,7 +41,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ayush859/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush choubey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/__ash17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__ash17_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ayush859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ayush859" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ayush859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayush859" height="30" width="40" /></a>
 </p>
 
 <br>
